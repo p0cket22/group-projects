@@ -1,0 +1,13 @@
+attempt to take a users input and then compare that to a group allowing for 
+a data base to be made showing the character and who owns it in the group
+
+base features:
+each item will be unique(same item cant be owned twice)
+UI: make it easy to see who owns what
+back end: allow users to export inputs to .csv or .xlsx
+
+Extra features:
+create own rolling database
+website?
+possibly integrate to a discord bot that can immedietly update a group data base(ya java script!)
+random other fun ideas
