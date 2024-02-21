@@ -1,2 +1,2 @@
 # group projects
- Projects made by logan and ambere
+ Projects made by logan and amber
